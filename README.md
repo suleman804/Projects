@@ -1,2 +1,2 @@
 # Projects
-### Here are machine learning prjects 
+### Here are machine learning projects 
