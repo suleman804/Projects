@@ -1,6 +1,6 @@
 # IRIS
 ## Project Motivation
-#### In this project I have classified three class of iris flower
+#### In this project I have classified three class of iris flower. The iris dataset is a simple and beginner-friendly dataset that contains information about the flower petal and sepal sizes. The dataset has 3 classes with 50 instances in each class, therefore, it contains 150 rows with only 4 columns
 ## Summery of project 
 In this project I have classify three classes of iris flower according to the features and these are 
 ##### 1. sepal length
