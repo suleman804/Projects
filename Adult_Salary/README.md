@@ -100,17 +100,6 @@ Given that the class imbalance is not severe and that both class labels are equa
 
 Using predefined train and test sets, reported good classification error is approximately 14 percent or a classification accuracy of about 86 percent. This might provide a target to aim for when working on this dataset.
 
-Next, let’s take a closer look at the data.
-
-Want to Get Started With Imbalance Classification?
-Take my free 7-day email crash course now (with sample code).
-
-Click to sign-up and also get a free PDF Ebook version of the course.
-
-Download Your FREE Mini-Course
-Explore the Dataset
-The Adult dataset is a widely used standard machine learning dataset, used to explore and demonstrate many machine learning algorithms, both generally and those designed specifically for imbalanced classification.
-
-First, download the dataset and save it in your current working directory with the name “adult.csv”
+You can download the dataset and save it in your current working directory with the name “adult.csv”
 
 https://archive.ics.uci.edu/ml/datasets/Adult 
